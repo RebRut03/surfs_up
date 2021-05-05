@@ -4,22 +4,20 @@
 The purpose of this analysis is to provide W. Avy more information to determine if the surf and ice cream shop business is sustainable year-round in Oahu.  Specifically, for this portion of the project, he would like to see temperature data trends for the months of June and December to help him make his final decision.
 
 ## Surfs Up Analysis Results: 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.eport that describes the key differences in weather between June and December and two recommendations for further analysis.
+- See the June and December statistics for key differences between the two months.
 
-  ###- June Temperature Statistics:
+  ### June Temperature Statistics:
 
    ![June_Stats](June_Stats.PNG)
     
     
-  ###- December Temperature Statistics:
+  ### December Temperature Statistics:
   
   ![Dec_Stats](Dec_Stats.PNG)
 
-- The mean or average temperatture in June is 75 and in December is 71.
-- The minium temp is ab it on the low side in December at 56 compared to 64 in June, but the majority of the time the temperature is in the 70s.
-- This looks good for opening a shop year rounnd.
-
-
+- The mean or average temperatture in June is 74.9 compared to 71.0 in December.
+- The minium temperature is eight degrees lower in December at 56 compared to 64 in June, but the majority of the time the temperature is in the 70s or aboove.
+- The numbers seem relatively consistent over the two months which looks promising for opening a shop year rounnd.
 
 ## Surfs Up Analysis Summary: 
 
@@ -31,4 +29,4 @@ Provide a bulleted list with three major points from the two analysis deliverabl
   ### December Preciptitation Statistics:
   ![Dec_Stats](Dec_Prcp.PNG)
 
-- Given the precipitation and the temperature statistics, as well as considering the fact that shcools generally are out during June, I believe the stitics point to opening the surf and ice crem shop in June but the numbers look relatively close/consitent in December as well.
+- Given the precipitation and the temperature statistics, as well as considering the fact that shcools generally are out during June, I believe the stitics point to opening the surf and ice crem shop in June but the numbers look relatively close/consitent in December as well which seems promising for opening a year-round business.
