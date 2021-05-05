@@ -8,5 +8,7 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 ![June_Stats](June_Stats.PNG)
 
+![Dec_Stats](Dec_Stats.PNG)
+
 ## Surfs Up Analysis Summary: 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
